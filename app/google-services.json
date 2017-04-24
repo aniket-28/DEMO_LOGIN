@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "357176071948",
+    "firebase_url": "https://demologin-50746.firebaseio.com",
+    "project_id": "demologin-50746",
+    "storage_bucket": "demologin-50746.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357176071948:android:1a8b42267132988f",
+        "android_client_info": {
+          "package_name": "aniketpalve.demo_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357176071948-itd9098fjf0grobhhueu4q88370r7gd6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aniketpalve.demo_login",
+            "certificate_hash": "b3ab9da998837ab5e9fb15d9693e0dc27af8152d"
+          }
+        },
+        {
+          "client_id": "357176071948-eeh50mir8ce6rcpkgjs1evsr00jump2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlgIwuW-0fA7p1k2_AMFivPZBQOOct1Rg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357176071948-eeh50mir8ce6rcpkgjs1evsr00jump2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
