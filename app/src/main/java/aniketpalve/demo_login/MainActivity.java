@@ -47,11 +47,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        if (mAuth.getCurrentUser()!=null){
-            Intent i = new Intent(this,ImageActivity.class);
-            startActivity(i);
-            finish();
-        }
+
 
         mAuthListener = new FirebaseAuth.AuthStateListener() {
             public String TAG="FIREBASE";
